@@ -1,4 +1,4 @@
-o#!/bin/bash
+#!/bin/bash
 # chmod +x ./create_journey_files.sh
 # ./create_journey_files.sh
 
